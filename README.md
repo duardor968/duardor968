@@ -10,7 +10,7 @@
 - 🎓 **Student & Full Stack Developer**
 - 🏆 **Competitive Programmer (CP)** and CTF solver  
 - 🛡️ Cybersecurity enthusiast  
-- 🌱 Learning advanced **AI** & **Assembly**
+- 🌱 Learning advanced **AI** & **NestJS**
 - 💻 OS: **Windows** & **Linux**
 - 🧠 Experienced in building RAG systems with Supabase vector stores and automating workflows using n8n
 - 🧠 Dream: Create the first AGI (Artificial General Intelligence)

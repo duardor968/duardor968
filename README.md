@@ -27,9 +27,7 @@
 
 ## 📦 Featured Project
 
-[![Anime_downloader](https://github-readme-stats.vercel.app/api/pin/?username=duardor968&repo=Anime_downloader&theme=github_dark)](https://github.com/duardor968/Anime_downloader)
-
-> 🧩 **Anime_downloader**: Automate your anime downloads simply and efficiently!
+> 🧩 [**Anime_downloader**](https://github.com/duardor968/Anime_downloader ): Automate your anime downloads simply and efficiently!
 
 ---
 
@@ -40,16 +38,8 @@
 ---
 
 ## 🏅 GitHub Stats
-
-<p align="center" style="background:#0d1117;">
-  <img src="https://github-readme-stats.vercel.app/api?username=duardor968&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duardor968&theme=github-dark&hide_border=true&background=0d1117" height="160" />
-</p>
 <p align="center" style="background:#0d1117;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=duardor968&theme=github-dark&bg_color=0d1117&color=58A6FF&line=238636&point=58A6FF&hide_border=true" alt="Contribution Graph"/>
-</p>
-<p align="center" style="background:#0d1117;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duardor968&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58A6FF" height="120"/>
 </p>
 
 ---

@@ -10,7 +10,7 @@
 - 🎓 **Student & Full Stack Developer**
 - 🏆 **Competitive Programmer (CP)** and CTF solver  
 - 🛡️ Cybersecurity enthusiast  
-- 🌱 Learning advanced **AI** & **NestJS**
+- 📚 Learning advanced **AI** & **NestJS**
 - 💻 OS: **Windows** & **Linux**
 - 🧠 Experienced in building RAG systems with Supabase vector stores and automating workflows using n8n
 - 🧠 Dream: Create the first AGI (Artificial General Intelligence)
@@ -22,6 +22,11 @@
 <p align="center" style="background:#0d1117;">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,python,java,html,css,js,nodejs,tailwind,bootstrap,mysql,postgres,supabase,linux,windows&theme=dark" />
 </p>
+
+---
+
+## 🏆 **International Achievements**  
+- 🌍 **The Global Olympiad IT 2025** – Only team distinction & individual honourable mention: *Cuban Team 3* ([official rankings](https://goit.space/docs/ratings/TEAM_RANKINGS.pdf))
 
 ---
 

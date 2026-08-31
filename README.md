@@ -19,9 +19,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,python,java,html,css,js,nodejs,tailwind,bootstrap,mysql,postgres,supabase,linux,windows&theme=dark" />
 </p>
 
-## 🏆 **International Achievements**  
-- 🌍 **The Global Olympiad IT 2025** – Only team distinction & individual honourable mention: *Cuban Team 3* ([official rankings](https://goit.space/docs/ratings/TEAM_RANKINGS.pdf))
-
 ## 📦 Featured Project
 
 > 🧩 [**Anime_downloader**](https://github.com/duardor968/Anime_downloader ): Automate your anime downloads simply and efficiently!
